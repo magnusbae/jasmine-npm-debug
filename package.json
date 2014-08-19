@@ -1,0 +1,39 @@
+{
+  "name": "jasmine-debug",
+  "version": "0.1.0",
+  "description": "Run Jasmine unit tests in node-inspector",
+  "bin": {
+    "jasmine-debug": "./cli.js"
+  },
+  "repository": "http://github.com/tohagan/jasmine-debug",
+  "dependencies": {
+    "node-inspector": "~0.7.4",
+    "open": "~0.0.5"
+  },
+  "author": {
+      "name": "Tony O'Hagan",
+      "email": "tony@ohagan.name"
+  },
+  "keywords": [
+    "jasmine",
+	"debug",
+	"debugging",
+    "node-inspector",
+    "development",
+    "test",
+	"unit test",
+    "testing"
+  ],
+  "license": "BSD",
+  "contributors": [
+    {
+      "name": "Tony O'Hagan",
+      "email": "tony@ohagan.name"
+    },
+	{
+      "name": "John Firebaugh",
+      "email": "john.firebaugh@gmail.com",
+      "url": "http://jfire.io"
+    }
+  ]
+}
