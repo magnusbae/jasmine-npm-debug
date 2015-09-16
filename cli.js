@@ -16,7 +16,7 @@ debugServer.start(config);
 
 var args = [
   '--debug-brk',
-  'node_modules/jasmine-node/lib/jasmine-node/cli.js'
+  'node_modules/jasmine/bin/jasmine.js'
 ];
 
 if (process.argv.length > 2) {
