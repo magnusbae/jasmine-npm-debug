@@ -9,9 +9,9 @@ Allows you to debug your jasmine tests using chrome or other remote debug consol
 
 ## Installation
 
-   ~~ $ npm install -g jasmine-npm-debug ~~
-   git clone
-   npm install && npm link
+   - ~~$ npm install -g jasmine-npm-debug~~
+   - git clone
+   - npm install && npm link
 
 ## Usage:
 
