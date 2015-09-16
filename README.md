@@ -1,3 +1,7 @@
+#jasmine-npm-debug
+
+Allows you to debug your jasmine tests using chrome or other remote debug console (eg. JetBrains WebStorm)
+
 ## Description
 
 - Runs jasmine unit test suites using `node-inspector`
@@ -5,7 +9,9 @@
 
 ## Installation
 
-    $ npm install -g jasmine-debug
+   ~~ $ npm install -g jasmine-npm-debug ~~
+   git clone
+   npm install && npm link
 
 ## Usage:
 
